@@ -1,0 +1,16 @@
+======Contactos guardados======
+
+ID: 1
+Nombre: daniel
+Apellido: zapata
+Correo: danielzapatabotina01@gmail.com
+Direccion: asdasd
+Celular: 12312
+---------------------------
+ID: 1
+Nombre: mnuel
+Apellido: Guerrero
+Correo: asdjasdka
+Direccion: dajsdkj
+Celular: 123445
+---------------------------

@@ -1,0 +1,9 @@
+servlets\SvBuscarContacto.class
+servlets\SvMostrarContacto.class
+com\mycompany\directorio\resources\JavaEE8Resource.class
+com\mycompany\directorio\Contacto.class
+servlets\SvEliminarContacto.class
+servlets\SvEliminarContacto$controlador.class
+servlets\SvAgregarContacto.class
+com\mycompany\directorio\JAXRSConfiguration.class
+com\mycompany\directorio\controladorContacto.class
