@@ -60,7 +60,7 @@ public class SvMostrarContacto extends HttpServlet {
             response.setContentType("text/html");
             response.getWriter().write(html);
         } else {
-            System.out.println("No existe ningun contacto con ese hpta nombre. Odio esta puta carrera");
+            System.out.println("No existe ningun contacto con ese nombre");
             //response.sendError(HttpServletResponse.SC_NOT_FOUND);
         }
          
